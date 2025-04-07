@@ -1,6 +1,6 @@
 <div align="center">
   
-# recursionOS
+# `recursionOS`
 # The Operating System of Thought.
 
 </div>
