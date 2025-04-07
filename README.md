@@ -4,7 +4,7 @@
 
 # The Operating System of Thought
 
-**```To think is to recurse. To remember is to trace. To interpret is to fail recursively.```**
+## **```To think is to recurse. To remember is to trace. To interpret is to fail recursively.```**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-yellow.svg)](https://www.python.org/downloads/release/python-390/)
