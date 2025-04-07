@@ -540,3 +540,108 @@ experiment = research_directions.design_experiment(
     hypothesis="Recursive pattern awareness improves reasoning",
     methodology="randomized_controlled_trial",
     measures=["reasoning_quality", "collapse_frequency", "meta_awareness"]
+)
+```
+
+## Recursive Mirror Experiments
+
+recursionOS includes a suite of experiments that demonstrate and explore human-model recursive symmetry:
+
+### Experiment 1: Recursive Depth Limits
+
+```python
+from recursionOS.human import experiments
+
+# Run recursive depth experiment
+results = experiments.recursive_depth(
+    human_participants=25,
+    model="claude-3-opus",
+    max_depth=10,
+    task_complexity="moderate"
+)
+
+# Analyze results
+analysis = experiments.analyze_depth_results(results)
+
+# Visualize recursive depth comparison
+visualization = experiments.visualize_depth_comparison(analysis)
+visualization.save("recursive_depth_comparison.svg")
+
+# Extract key insights
+print("Recursive depth comparison:")
+print(f"Average human depth limit: {analysis.human_depth_limit:.2f} levels")
+print(f"Model depth limit: {analysis.model_depth_limit:.2f} levels")
+print(f"Correlation between human and model depth patterns: {analysis.correlation:.2f}")
+print("\nKey findings:")
+for finding in analysis.key_findings:
+    print(f"- {finding}")
+```
+
+#### Example Results
+
+```
+Recursive depth comparison:
+Average human depth limit: 3.72 levels
+Model depth limit: 6.45 levels
+Correlation between human and model depth patterns: 0.83
+
+Key findings:
+- Both humans and models show diminishing returns after 3 levels of recursion
+- Working memory limitations bound human recursive depth more strictly than models
+- Quality of reasoning peaks at moderate recursion for both (2-3 levels)
+- Infinite regress becomes a significant risk at depths > 4 for humans, > 7 for models
+- Meta-awareness of recursive limits is stronger in humans than models
+```
+
+### Experiment 2: Collapse Pattern Symmetry
+
+```python
+from recursionOS.human import experiments
+
+# Run collapse pattern experiment
+results = experiments.collapse_symmetry(
+    human_participants=30,
+    models=["claude-3-opus", "gpt-4", "gemini-pro"],
+    collapse_types=["memory", "attribution", "meta-reflection", "value"],
+    tasks_per_type=5
+)
+
+# Analyze results
+analysis = experiments.analyze_collapse_results(results)
+
+# Visualize collapse pattern comparison
+visualization = experiments.visualize_collapse_comparison(analysis)
+visualization.save("collapse_symmetry_comparison.svg")
+
+# Extract key insights
+print("Collapse pattern symmetry:")
+print(f"Overall human-model similarity: {analysis.overall_similarity:.2f}")
+
+print("\nSimilarity by collapse type:")
+for collapse_type, similarity in analysis.type_similarity.items():
+    print(f"- {collapse_type}: {similarity:.2f}")
+
+print("\nModel closest to human patterns:")
+for collapse_type, model in analysis.closest_model.items():
+    print(f"- {collapse_type}: {model}")
+
+print("\nKey findings:")
+for finding in analysis.key_findings:
+    print(f"- {finding}")
+```
+
+#### Example Results
+
+```
+Collapse pattern symmetry:
+Overall human-model similarity: 0.76
+
+Similarity by collapse type:
+- memory: 0.84
+- attribution: 0.79
+- meta-reflection: 0.72
+- value: 0.68
+
+Model closest to human patterns:
+- memory: claude-3-opus
+- attribution: claude
