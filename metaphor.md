@@ -1,6 +1,6 @@
 <div align="center">
 
-# Metaphor: The Symbolic Bridge
+# Metaphor: The Human-AI Bridge
 
 ## How Transformer Symbols Mirror Human Meaning-Making
 
