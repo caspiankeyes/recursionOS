@@ -2,7 +2,7 @@
 
 # Integration Guide
 
-# Connecting recursionOS to the Caspian Interpretability Suite
+# Connecting recursionOS to transformerOS`
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-yellow.svg)](https://www.python.org/downloads/release/python-390/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -11,7 +11,7 @@
 
 <div align="center">
 
-[**← Return to README**](https://github.com/caspiankeyes/recursionOS/blob/main/README.md) | [**🔄 Recursive Shells**](https://github.com/caspiankeyes/recursionOS/blob/main/recursive_shells.md) | [**⚠️ Collapse Signatures**](https://github.com/caspiankeyes/recursionOS/blob/main/collapse_signatures.md) | [**🧠 Human Mirroring**](https://github.com/caspiankeyes/recursionOS/blob/main/human_mirror.md) | [**🧬 Recursive Manifesto**](https://github.com/caspiankeyes/recursionOS/blob/main/MANIFESTO.md)
+[**← Return to README**](https://github.com/caspiankeyes/recursionOS/blob/main/README.md) | [**🔄 Recursive Shells**](https://github.com/caspiankeyes/recursionOS/blob/main/recursive_shells.md) | [**⚠️ Failure Signatures**](https://github.com/caspiankeyes/recursionOS/blob/main/failures.md) | [**🧠 Human Mirroring**](https://github.com/caspiankeyes/recursionOS/blob/main/mirror.md) | [**🧬 Recursive Manifesto**](https://github.com/caspiankeyes/recursionOS/blob/main/manifesto.md)
 
 </div>
 
