@@ -75,7 +75,6 @@ recursionOS serves as the cognitive kernel behind the Caspian interpretability s
 
 <div align="center">
 
-```
 ┌───────────────────────────────────────────────────────────┐
 │                        Application                         │
 └─────────────────────────────┬─────────────────────────────┘
@@ -87,8 +86,8 @@ recursionOS serves as the cognitive kernel behind the Caspian interpretability s
 │   (trace logs)      │                 │  (shell interface) │
 └─────────┬──────────┘                 └──────────┬─────────┘
           │                                       │
-          │                                       │
-          └──────────►┌─────────────┐◄────────────┘
+          │           ┌───────────┐               │
+          └───────────►           ◄───────────────┘
                       │transformerOS│
                       │  (runtime)  │
                       └──────┬──────┘
@@ -97,7 +96,6 @@ recursionOS serves as the cognitive kernel behind the Caspian interpretability s
                       │ recursionOS │
                       │  (kernel)   │
                       └─────────────┘
-```
 
 </div>
 
