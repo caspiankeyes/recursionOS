@@ -100,7 +100,7 @@ recursionOS serves as the cognitive kernel behind the Recursive interpretability
 
 ```
 
-![image](https://github.com/user-attachments/assets/4e84af70-e808-4875-91d1-b43adfaf620f)
+![image](https://github.com/user-attachments/assets/e0d2ac93-af64-4366-8154-8113013ba0f1)
 
 </div>
 
