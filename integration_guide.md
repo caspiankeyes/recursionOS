@@ -11,7 +11,7 @@
 
 <div align="center">
 
-[**← Return to README**](https://github.com/caspiankeyes/recursionOS/blob/main/README.md) | [**🔄 Recursive Shells**](https://github.com/caspiankeyes/recursionOS/blob/main/recursive_shells.md) | [**⚠️ Failure Signatures**](https://github.com/caspiankeyes/recursionOS/blob/main/failures.md) | [**🧠 Human Mirroring**](https://github.com/caspiankeyes/recursionOS/blob/main/mirror.md) | [**🧬 Recursive Manifesto**](https://github.com/caspiankeyes/recursionOS/blob/main/manifesto.md)
+[**← Return to README**](https://github.com/caspiankeyes/recursionOS/blob/main/README.md) | [**🔄 Recursive Shells**](https://github.com/caspiankeyes/recursionOS/blob/main/recursive_shells.md) | [**⚠️ Failure Signatures**](https://github.com/caspiankeyes/recursionOS/blob/main/failures.md) | [**🧠 Mirroring**](https://github.com/caspiankeyes/recursionOS/blob/main/mirror.md) | [**🧬 Recursive Manifesto**](https://github.com/caspiankeyes/recursionOS/blob/main/manifesto.md)
 
 </div>
 
