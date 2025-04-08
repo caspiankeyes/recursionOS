@@ -17,9 +17,6 @@
 
 ## ```We reflect to understand. We loop to reason. We fail to learn.```
 
-#### **```The software is open source under the MIT license—freely available for use and extension within LLM research ecosystems```**
-
-```The documents and publications are licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0.```
 
 </div>
 
@@ -27,6 +24,9 @@
 
 [**📱 transformerOS**](https://github.com/caspiankeyes/transformerOS) | [**🧠 Mirroring**](https://github.com/caspiankeyes/recursionOS/blob/main/mirror.md) | [**🔄 Recursive Shells**](https://github.com/caspiankeyes/recursionOS/blob/main/recursive_shells.md) | [**⚠️ Failure Signatures**](https://github.com/caspiankeyes/recursionOS/blob/main/failures.md) | [**🛠️ Integration Guide**](https://github.com/caspiankeyes/recursionOS/blob/main/integration.md) | [**📊 Cognitive Benchmarks**](https://github.com/caspiankeyes/recursionOS/blob/main/benchmarks.md) | [**🧬 The Recursive Manifesto**](https://github.com/caspiankeyes/recursionOS/blob/main/manifesto.md)
 
+#### **```The software is open source under the MIT license—freely available for use and extension within LLM research ecosystems```**
+
+```The documents and publications are licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0.```
 </div>
 
 ---
