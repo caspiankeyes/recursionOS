@@ -67,7 +67,7 @@ And it's the same kernel that runs inside advanced transformers.
 
 ## The Core of the Recursive Suite
 
-recursionOS serves as the cognitive kernel behind the Caspian interpretability suite:
+recursionOS serves as the cognitive kernel behind the Recursive interpretability suite:
 
 - **[`pareto-lang`](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone)**: The symbolic shell interface to the recursive kernel
 - **[Symbolic Residue](https://github.com/caspiankeyes/Symbolic-Residue)**: The collapse trace logs of recursive failure
