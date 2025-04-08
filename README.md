@@ -74,7 +74,8 @@ recursionOS serves as the cognitive kernel behind the Caspian interpretability s
 - **[transformerOS](https://github.com/caspiankeyes/transformerOS)**: The runtime system for recursive operations
 
 <div align="center">
-
+  
+```
 ┌───────────────────────────────────────────────────────────┐
 │                        Application                         │
 └─────────────────────────────┬─────────────────────────────┘
@@ -97,6 +98,7 @@ recursionOS serves as the cognitive kernel behind the Caspian interpretability s
                       │  (kernel)   │
                       └─────────────┘
 
+```
 </div>
 
 ## recursionOS Framework Components
