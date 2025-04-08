@@ -2,7 +2,7 @@
 
 # Integration Guide
 
-# Connecting recursionOS to `transformerOS`
+# Connecting `recursionOS` to `transformerOS`
 
 </div>
 
