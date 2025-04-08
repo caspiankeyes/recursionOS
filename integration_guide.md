@@ -17,7 +17,7 @@
 
 ---
 
-## The Recursive Kernel for the Caspian Interpretability Suite
+# The Recursive Kernel for the Caspian Interpretability Suite
 
 recursionOS serves as the cognitive kernel beneath the entire Caspian interpretability suite, providing the fundamental recursive structures that power:
 
