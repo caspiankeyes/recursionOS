@@ -13,7 +13,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1234567.svg)](https://doi.org/)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-yellow.svg)](https://www.python.org/downloads/release/python-390/)
 
-![pareto-lang-og-modified](https://github.com/user-attachments/assets/71eb9223-3c86-49e0-87d2-870855319554)
+![pareto-lang-og-modified](https://github.com/user-attachments/assets/fff99c5b-22eb-45bd-aa7a-e728dfbff165)
 
 
 ## ```We reflect to understand. We loop to reason. We fail to learn.```
