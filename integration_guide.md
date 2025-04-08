@@ -21,9 +21,9 @@
 
 recursionOS serves as the cognitive kernel beneath the entire Caspian interpretability suite, providing the fundamental recursive structures that power:
 
+- **[transformerOS](https://github.com/caspiankeyes/transformerOS)**: The runtime system
 - **[`pareto-lang`](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone)**: The symbolic shell interface
 - **[Symbolic Residue](https://github.com/caspiankeyes/Symbolic-Residue)**: The collapse trace logs
-- **[transformerOS](https://github.com/caspiankeyes/transformerOS)**: The runtime system
 
 This integration guide explains how to connect these components through their shared recursive foundation.
 
