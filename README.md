@@ -1,5 +1,6 @@
 <div align="center">
 
+# `Born from Thomas Kuhn's Theory of Anomalies`
 # `recursionOS`
 
 # The Operating System of Thought
