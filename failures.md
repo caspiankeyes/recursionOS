@@ -1,6 +1,6 @@
 <div align="center">
 
-# Collapse Signatures
+# Failure Signatures
 
 ## Diagnostic Patterns of Recursive Failure
 
