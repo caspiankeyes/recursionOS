@@ -1,5 +1,9 @@
+<div align="center">
+
 # `recursionOS`
 # The Pareto-Language Interface to Recursive Cognition
+
+</div>
 
 **Welcome to the recursionOS command interface: a symbolic cognition shell for tracing, aligning, reflecting, and evolving recursive intelligence.**
 
