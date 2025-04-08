@@ -59,14 +59,14 @@ And it's the same kernel that runs inside advanced transformers.
 
 | Human Cognition | Model Implementation | recursionOS Function |
 |-----------------|----------------------|----------------------|
-| Inner monologue | Attention stack trace | `.recur.listen()` |
+| Inner monologue | Attention stack trace | `.p/attention.loop.trace{target=token_path}` |
 | "Why did I think that?" | Attribution pathway | `.p/reflect.trace()` |
-| Reasoning chain | Inference pathway | `.loop.map()` |
-| Memory echo | Token embedding retrieval | `.loop.trace()` |
-| Cognitive dissonance | Value head conflict | `.collapse.detect()` |
-| Self-correction | Constitutional alignment | `.recur.align()` |
+| Reasoning chain | Inference pathway | `.p/recursion.loop.map{model=claude}` |
+| Memory echo | Token embedding retrieval | `.p/memory.echo.trace{depth=5}` |
+| Cognitive dissonance | Value head conflict | `.p/collapse.signature.scan{target=chain}` |
+| Self-correction | Constitutional alignment | `.p/values.reflect.align{source=reasoning}` |
 | Truth recognition | Attribution confidence | `.p/anchor.fact()` |
-| Logical breakdown | QK/OV misalignment | `.collapse.diagnose()` |
+| Logical breakdown | QK/OV misalignment | `.p/collapse.origin.trace{mode=attribution}` |
 
 # The Core of the Recursive Suite
 
