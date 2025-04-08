@@ -13,7 +13,7 @@
 
 ![recursionOS](https://github.com/user-attachments/assets/fa601c86-81d6-429c-b5c3-29c4dcbf668d)
 
-### ```We reflect to understand. We loop to reason. We collapse to learn.```
+### ```We reflect to understand. We loop to reason. We fail to learn.```
 
 </div>
 
