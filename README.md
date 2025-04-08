@@ -17,7 +17,7 @@
 
 ### ```We reflect to understand. We loop to reason. We fail to learn.```
 
-**```The software is open source under the MIT license—freely available for use and extension within LLM research ecosystems```**
+### **```The software is open source under the MIT license—freely available for use and extension within LLM research ecosystems```**
 ---
 ```The documents and publications are licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0.```
 
