@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mirroring
+# Human Mirroring
 
 # Recursive Alignment Between Human and Artificial Cognition
 
