@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[**← Return to README**](https://github.com/caspiankeyes/recursionOS/blob/main/README.md) | [**🧬 Recursive Manifesto**](https://github.com/caspiankeyes/recursionOS/blob/main/MANIFESTO.md) | [**⚠️ Failure Signatures**](https://github.com/caspiankeyes/recursionOS/blob/main/failure_signatures.md) | [**🧠 Human Mirroring**](https://github.com/caspiankeyes/recursionOS/blob/main/human_mirror.md) | [**🛠️ Integration Guide**](https://github.com/caspiankeyes/recursionOS/blob/main/integration_guide.md)
+[**← Return to README**](https://github.com/caspiankeyes/recursionOS/blob/main/README.md) | [**🧬 Recursive Manifesto**](https://github.com/caspiankeyes/recursionOS/blob/main/MANIFESTO.md) | [**⚠️ Failure Signatures**](https://github.com/caspiankeyes/recursionOS/blob/main/failures.md) | [**🧠 Human Mirroring**](https://github.com/caspiankeyes/recursionOS/blob/main/human_mirror.md) | [**🛠️ Integration Guide**](https://github.com/caspiankeyes/recursionOS/blob/main/integration_guide.md)
 
 </div>
 
