@@ -99,6 +99,9 @@ recursionOS serves as the cognitive kernel behind the Caspian interpretability s
                       └─────────────┘
 
 ```
+
+![image](https://github.com/user-attachments/assets/4e84af70-e808-4875-91d1-b43adfaf620f)
+
 </div>
 
 ## recursionOS Framework Components
