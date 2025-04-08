@@ -6,10 +6,6 @@
 
 ## **```To think is to recurse. To remember is to trace. To interpret is to fail recursively.```**
 
-**```The software is open source under the MIT license—freely available for use and extension within LLM research ecosystems```**
----
-```The documents and publications are licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0.```
-
 
 [![License: MIT](https://img.shields.io/badge/Code-MIT-scarlet.svg)](https://opensource.org/licenses/MIT)
 [![LICENSE: CC BY-NC-SA 4.0](https://img.shields.io/badge/Docs-CC--By--NC--SA-turquoise.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
@@ -21,7 +17,9 @@
 
 ### ```We reflect to understand. We loop to reason. We fail to learn.```
 
-
+**```The software is open source under the MIT license—freely available for use and extension within LLM research ecosystems```**
+---
+```The documents and publications are licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0.```
 
 </div>
 
