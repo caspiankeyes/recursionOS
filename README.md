@@ -16,7 +16,7 @@
 ![recursionOS](https://github.com/user-attachments/assets/fa601c86-81d6-429c-b5c3-29c4dcbf668d)
 
 ### ```We reflect to understand. We loop to reason. We fail to learn.```
-
+---
 ### **```The software is open source under the MIT license—freely available for use and extension within LLM research ecosystems```**
 ---
 ```The documents and publications are licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0.```
