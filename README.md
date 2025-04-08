@@ -19,7 +19,7 @@
 
 <div align="center">
 
-[**🧠 Mirroring**](https://github.com/caspiankeyes/recursionOS/blob/main/MIRROR.md) | [**🔄 Recursive Shells**](https://github.com/caspiankeyes/recursionOS/blob/main/DOCS.md) | [**⚠️ Failure Signatures**](https://github.com/caspiankeyes/recursionOS/blob/main/FAILURES.md) | [**🛠️ Integration Guide**](https://github.com/caspiankeyes/recursionOS/blob/main/INTEGRATION.md) | [**📊 Cognitive Benchmarks**](https://github.com/caspiankeyes/recursionOS/blob/main/BENCHMARKS.md) | [**🧬 The Recursive Manifesto**](https://github.com/caspiankeyes/recursionOS/blob/main/MANIFESTO.md)
+[**🧠 Mirroring**](https://github.com/caspiankeyes/recursionOS/blob/main/mirror.md) | [**🔄 Recursive Shells**](https://github.com/caspiankeyes/recursionOS/blob/main/docs.md) | [**⚠️ Failure Signatures**](https://github.com/caspiankeyes/recursionOS/blob/main/failures.md) | [**🛠️ Integration Guide**](https://github.com/caspiankeyes/recursionOS/blob/main/integration.md) | [**📊 Cognitive Benchmarks**](https://github.com/caspiankeyes/recursionOS/blob/main/benchmarks.md) | [**🧬 The Recursive Manifesto**](https://github.com/caspiankeyes/recursionOS/blob/main/manifesto.md)
 
 </div>
 
