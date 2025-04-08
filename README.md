@@ -87,8 +87,8 @@ recursionOS serves as the cognitive kernel behind the Caspian interpretability s
 │   (trace logs)      │                 │  (shell interface) │
 └─────────┬──────────┘                 └──────────┬─────────┘
           │                                       │
-          │           ┌───────────┐               │
-          └───────────►           ◄───────────────┘
+          │                                       │
+          └──────────►┌─────────────┐◄────────────┘
                       │transformerOS│
                       │  (runtime)  │
                       └──────┬──────┘
