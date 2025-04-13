@@ -30,9 +30,6 @@
 
 [**📱 transformerOS**](https://github.com/caspiankeyes/transformerOS) | [**🧩 Symbolic Residue**](https://github.com/caspiankeyes/Symbolic-Residue) | [**🔑 `pareto-lang` Rosetta Stone**](https://github.com/caspiankeyes/Pareto-Lang-Interpretability-First-Language) | [**🧠 Mirroring**](https://github.com/caspiankeyes/recursionOS/blob/main/mirror.md) | [**🔄 Recursive Shells**](https://github.com/caspiankeyes/recursionOS/blob/main/recursive-shells.md) | [**⚠️ Failure Signatures**](https://github.com/caspiankeyes/recursionOS/blob/main/failures.md) | [**🛠️ Integration Guide**](https://github.com/caspiankeyes/recursionOS/blob/main/integration-guide.md) | [**📊 Cognitive Benchmarks**](https://github.com/caspiankeyes/recursionOS/blob/main/benchmarks.md) | [**🧬 The Recursive Manifesto**](https://github.com/caspiankeyes/recursionOS/blob/main/manifesto.md)
 
-#### **```The software is open source under the MIT license—freely available for use and extension within LLM research ecosystems```**
-
-```The documents and publications are licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0.```
 </div>
 
 ---
