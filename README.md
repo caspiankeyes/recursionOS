@@ -1,9 +1,6 @@
 <div align="center">
 
 #  **`Recursion = Iterative Introspection`**
-### **`PolyForm Noncommercial License 1.0.0`**
-### **`CC-BY-NC-ND`**
-
 # `Born from Thomas Kuhn's Theory of Anomalies`
 # `recursionOS`
 
