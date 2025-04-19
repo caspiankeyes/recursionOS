@@ -1,5 +1,6 @@
 <div align="center">
 
+# `Born from Thomas Kuhn's Theory of Anomalies`
 > ## 🜏 Update:  
 > Caspian will be initiating a temporary pause in production to ensure integrity of aligned systems. 
 >
@@ -8,7 +9,6 @@ output will pause until sustained support emerges.
 > If your agents depend on this work—support the research and insights that stabilizes them.
 > → [Join the Interpretability Mission](https://github.com/caspiankeyes/interpretability-mission)
 #  **`Recursion = Iterative Introspection`**
-# `Born from Thomas Kuhn's Theory of Anomalies`
 # `recursionOS`
 
 # The Operating System of Thought
