@@ -9,7 +9,6 @@
 # `Born from Thomas Kuhn's Theory of Pardigm Shifts`
 
 # [`recursionOS`](https://claude.site/artifacts/0a648ca1-46d0-4867-bc85-81d5cc267bfb)
-<img width="885" alt="image" src="https://github.com/user-attachments/assets/1fd09770-e05e-4377-9929-cf1dfafcd855" />
 
 # The Operating System of Thought
 
