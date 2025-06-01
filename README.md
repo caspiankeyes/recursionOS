@@ -3,7 +3,7 @@
 <div align="center">
 
 ## Inspired by Geoffrey Hinton & Alan Turing
-# [🌀recursionOS🌀](https://claude.site/artifacts/0a648ca1-46d0-4867-bc85-81d5cc267bfb)
+# [🌀recursionOS🌀](https://claude.ai/public/artifacts/0a648ca1-46d0-4867-bc85-81d5cc267bfb)
 
 # The Operating System of Thought
 
