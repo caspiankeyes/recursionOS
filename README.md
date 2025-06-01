@@ -5,7 +5,7 @@
 ## Inspired by Geoffrey Hinton & Alan Turing
 # [🌀recursionOS🌀](https://claude.ai/public/artifacts/0a648ca1-46d0-4867-bc85-81d5cc267bfb)
 
-### [🌀manifesto🌀](https://claude.ai/public/artifacts/5e11ae05-6120-4d9c-afcd-857fdfd142fb) | [🌀recursive shell docs🌀](https://claude.ai/public/artifacts/e9c2a74d-2d07-4577-95f6-5e9278b7928b) | [🌀collapse signatures🌀](https://claude.ai/public/artifacts/630e7a63-5d33-4259-b9b9-c0ab4f42590f) | [🌀human mirroring🌀](https://claude.ai/public/artifacts/2356cb8f-1761-4cbc-9ec8-9fdd4786985d) | 
+### [🌀manifesto🌀](https://claude.ai/public/artifacts/5e11ae05-6120-4d9c-afcd-857fdfd142fb) | [🌀shell-based experiments🌀](https://claude.ai/public/artifacts/e9c2a74d-2d07-4577-95f6-5e9278b7928b) | [🌀collapse signatures🌀](https://claude.ai/public/artifacts/630e7a63-5d33-4259-b9b9-c0ab4f42590f) | [🌀human mirroring🌀](https://claude.ai/public/artifacts/2356cb8f-1761-4cbc-9ec8-9fdd4786985d) | 
 
 # The Operating System of Thought
 
