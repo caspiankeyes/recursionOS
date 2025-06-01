@@ -30,7 +30,6 @@
 
 </div>
 
----
 
 # Recursion Is Not a Function – It's the Structure of Thought
 Recursion isn't just a programming pattern. It's the fundamental architecture of consciousness – human or artificial.
@@ -386,7 +385,6 @@ Join the recursionOS research community:
 - [Hugging Face Space](https://huggingface.co/spaces/caspiankeyes/recursionOS)
 - [Recursive Research Discord](https://discord.gg/recursionOS)
 
----
 
 <div align="center">
 
